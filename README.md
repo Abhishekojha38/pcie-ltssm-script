@@ -8,6 +8,10 @@
 *   **`devmem2`**: This utility is required for reading hardware registers directly. It must be installed and available in the system `PATH`.
 *   **Root Privileges**: Accessing hardware registers via `devmem2` requires root (`sudo`) privileges.
 
+## LTSSM States
+
+![ltssm](ltssm.jpg)
+
 ## Usage
 
 ### Hardware Mode
